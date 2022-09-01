@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-16T22:00:47 IST" name="Default suite" finished-at="2022-08-16T22:01:13 IST" duration-ms="26145">
+    <groups>
+    </groups>
+    <test started-at="2022-08-16T22:00:47 IST" name="Default test" finished-at="2022-08-16T22:01:13 IST" duration-ms="26145">
+      <class name="TestLayer.orangeHRMTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestLayer.orangeHRMTest@5a56cdac]" started-at="2022-08-16T22:00:47 IST" name="setup" finished-at="2022-08-16T22:00:57 IST" duration-ms="10267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:1, instance:TestLayer.orangeHRMTest@5a56cdac]" started-at="2022-08-16T22:00:57 IST" name="Login" finished-at="2022-08-16T22:01:04 IST" duration-ms="6512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Home()[pri:2, instance:TestLayer.orangeHRMTest@5a56cdac]" started-at="2022-08-16T22:01:04 IST" name="Home" finished-at="2022-08-16T22:01:13 IST" duration-ms="9267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestLayer.orangeHRMTest@5a56cdac]" started-at="2022-08-16T22:01:13 IST" name="teardown" finished-at="2022-08-16T22:01:13 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestLayer.orangeHRMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
